@@ -112,7 +112,7 @@ A custom promotional email developed to recreate a Roku March Madness campaign. 
   <img src="screenshots/roku-march-madness.png" alt="Roku March Madness Email" width="700">
 </p>
 
-[View Live Email](YOUR_LIVE_LINK) | [View Source Code](YOUR_SOURCE_LINK)
+[View Live Email](https://bookera.github.io/email-examples/Roku_March_Madness_Andrew_Booker.html) | [View Source Code](https://github.com/bookera/email-examples/blob/main/Roku_March_Madness_Andrew_Booker.html)
 
 ---
 
@@ -124,7 +124,7 @@ A responsive marketing email featuring dynamic content placeholders and multiple
   <img src="screenshots/auto-buying-program.png" alt="Auto Buying Program Email" width="700">
 </p>
 
-[View Live Email](YOUR_LIVE_LINK) | [View Source Code](YOUR_SOURCE_LINK)
+[View Live Email](https://bookera.github.io/email-examples/Starting_Page_Dev_Andrew_Booker.html) | [View Source Code](https://github.com/bookera/email-examples/blob/main/Starting_Page_Dev_Andrew_Booker.html)
 
 ## Tools & Technologies
 
