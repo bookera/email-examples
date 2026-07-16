@@ -106,15 +106,21 @@ Below are examples of responsive HTML emails I have developed and coded.
 
 ### Roku March Madness Campaign
 
-Custom promotional HTML email demonstrating responsive email development and mobile optimization.
+A custom promotional email developed to recreate a Roku March Madness campaign. This project demonstrates responsive HTML email development, mobile optimization, structured content modules, and promotional CTA implementation.
 
-[View Project](YOUR_ROKU_PROJECT_LINK)
+![Roku March Madness Email](screenshots/roku-march-madness.png)
+
+[View Live Email](YOUR_LIVE_LINK) | [View Source Code](YOUR_SOURCE_LINK)
+
+---
 
 ### Auto Buying Program Email
 
-Responsive HTML marketing email demonstrating email layout development and cross-device compatibility.
+A responsive marketing email featuring dynamic content placeholders and multiple promotional content modules. This project demonstrates modular email development, responsive layouts, CTA implementation, and dynamic content integration.
 
-[View Project](YOUR_AUTO_BUYING_PROJECT_LINK)
+![Auto Buying Program Email](screenshots/auto-buying-program.png)
+
+[View Live Email](YOUR_LIVE_LINK) | [View Source Code](YOUR_SOURCE_LINK)
 
 ## Tools & Technologies
 
